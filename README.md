@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a Backend Developer
+# I'm a Frontend Developer
 [![BoburbekBaxrombekov's github stats ](https://github-readme-stats.vercel.app/api?username=BoburbekBaxrombekov&show_icons=true&theme=dark)](https://github.com/BoburbekBaxrombekov/github-readme-stats)
 
 
