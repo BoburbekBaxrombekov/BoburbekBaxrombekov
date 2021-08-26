@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# I'm a Frontent Developer
+[![Boburbek's github stats ](https://github-readme-stats.vercel.app/api?username=BoburbekBaxrombekov&show_icons=true&theme=dark)](https://github.com/BoburbekBaxrombekov/github-readme-stats)
+
+
+### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ### Follow me
